@@ -1,0 +1,24 @@
+.sh{
+    display: flex;
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.sha{
+    width: 100px;
+    height: 100px;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
